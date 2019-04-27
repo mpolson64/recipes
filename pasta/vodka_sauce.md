@@ -1,23 +1,12 @@
 # Rigatoni with Easy Vodka Sauce
 
-## Info
-### Difficulty
-Easy
-
-### Time
-20 minutes
-
-### Size
-4 servings
-
-### Dietary
-Vegetarian
-
-### Made?
-Yes
-
-### Source
-https://www.bonappetit.com/recipe/rigatoni-with-easy-vodka-sauce
+Info       | _
+-----------|-
+Difficulty | Easy
+Time       | 20 minutes
+Size       | 4 servings
+Dietary    | Vegetarian
+Made?      | Yes
 
 ## Ingredients
 - [ ] Kosher salt
@@ -50,3 +39,6 @@ https://www.bonappetit.com/recipe/rigatoni-with-easy-vodka-sauce
 
 ## Notes
 - Add chopped guanciale (or bacon if broke) for non-vegetarian variant
+
+## Source
+https://www.bonappetit.com/recipe/rigatoni-with-easy-vodka-sauce

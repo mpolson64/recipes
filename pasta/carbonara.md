@@ -1,24 +1,12 @@
 # Bucatini Carbonara
 
-## Info
-
-### Difficulty
-Medium
-
-### Time
-30 minutes
-
-### Size
-4 - 6 servings
-
-### Dietary
-None
-
-### Made?
-Yes
-
-### Source
-https://www.bonappetit.com/recipe/the-silkiest-carbonara
+Info       | _
+-----------|-
+Difficulty | Medium
+Time       | 30 minutes
+Size       | 4 - 6 servings
+Dietary    | None
+Made?      | Yes
 
 ## Ingredients
 - [ ] 0.25 lb. guanciale
@@ -45,3 +33,6 @@ https://www.bonappetit.com/recipe/the-silkiest-carbonara
   - Add a few cloves of garlic and shallots and brown those as well
   - Mix mushrooms into egg mixture
   - Serve with freshly chopped parsely
+  
+## Source
+https://www.bonappetit.com/recipe/the-silkiest-carbonara

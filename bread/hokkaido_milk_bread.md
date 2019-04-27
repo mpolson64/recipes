@@ -1,24 +1,12 @@
 # Hokkaido Milk Bread
 
-## Info
-
-### Difficulty
-Medium
-
-### Time
-3 hours
-
-### Size
-1 loaf
-
-### Dietary
-Vegetarian
-
-### Made?
-No
-
-### Source
-https://www.kingarthurflour.com/recipes/japanese-milk-bread-rolls-recipe
+Info       | _
+-----------|-
+Difficulty | Medium
+Time       | 3 hours
+Size       | 1 loaf
+Dietary    | Vegetarian
+Made?      | No
 
 ## Ingredients
 - [ ] 3 Tbsp. water
@@ -43,3 +31,6 @@ https://www.kingarthurflour.com/recipes/japanese-milk-bread-rolls-recipe
 
 ## Notes
 Don't really know the timing for a loaf pan, be careful.
+
+## Source
+https://www.kingarthurflour.com/recipes/japanese-milk-bread-rolls-recipe

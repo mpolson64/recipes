@@ -1,24 +1,12 @@
 # Pumpkin Bread
 
-## Info
-
-### Difficulty
-Medium
-
-### Time
-2 hours
-
-### Size
-1 loaf
-
-### Dietary
-Vegetarian
-
-### Made?
-Yes
-
-### Source
-https://www.bonappetit.com/recipe/pumpkin-bread-with-salted-maple-butter
+Info       | _
+-----------|-
+Difficulty | Medium
+Time       | 2 hours
+Size       | 1 loaf
+Dietary    | Vegetarian
+Made?      | Yes
 
 ## Ingredients
 - [ ] 2.5 cups all-purpose flour
@@ -45,3 +33,6 @@ https://www.bonappetit.com/recipe/pumpkin-bread-with-salted-maple-butter
 
 ## Notes
 - Hit top with torch to carmelize the sugar if you have the time
+
+## Source
+https://www.bonappetit.com/recipe/pumpkin-bread-with-salted-maple-butter

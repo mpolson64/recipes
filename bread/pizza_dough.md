@@ -1,23 +1,12 @@
 # Pizza Dough
 
-## Info
-### Difficulty
-Easy
-
-### Time
-20 minutes
-
-### Size
-2 12-inch pizzas
-
-### Dietary
-Vegan
-
-### Made?
-Yes
-
-### Source
-https://cooking.nytimes.com/recipes/1016230-robertas-pizza-dough
+Info       | _
+-----------|-
+Difficulty | Easy
+Time       | 20 minutes
+Size       | 2 12-inch pizzas
+Dietary    | Vegan
+Made?      | Yes
 
 ## Ingredients
 - [ ] 306 grams all-purpose flour
@@ -35,3 +24,6 @@ https://cooking.nytimes.com/recipes/1016230-robertas-pizza-dough
 - Cook at highest tempurature oven can get to
 - If you can find it use half 00 flour
 - Let rise for a full 24 hours in the fridge for deeper flavor
+
+## Source
+https://cooking.nytimes.com/recipes/1016230-robertas-pizza-dough
