@@ -1,22 +1,14 @@
 # The Jane Street
 
-## Info
-### Difficulty
-Super Easy
+Info       | _
+-----------|-
+Difficulty | Super Easy
+Time       | 45 minutes (like 5 if you have roasted red bell pepper)
+Size       | 2 servings
+Dietary    | Vegetarian
+Made?      | Yes
 
-### Time
-45 minutes (like 5 if you have roasted red bell pepper)
-
-### Size
-2 servings
-
-### Dietary
-Vegetarian
-
-### Made?
-Yes
-
-### Source
+## Source
 None
 
 ## Ingredients

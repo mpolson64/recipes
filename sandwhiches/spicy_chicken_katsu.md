@@ -1,22 +1,14 @@
 # Spicy Chicken Katsu
 
-## Info
-### Difficulty
-Medium
+Info       | _
+-----------|-
+Difficulty | Medium
+Time       | 30 minutes
+Size       | 4 servings
+Dietary    | No red meat
+Made?      | No
 
-### Time
-30 minutes
-
-### Size
-4 servings
-
-### Dietary
-No red meat
-
-### Made?
-No
-
-### Source
+## Source
 https://www.bonappetit.com/recipe/spicy-chicken-katsu-sandwiches
 
 ## Ingredients

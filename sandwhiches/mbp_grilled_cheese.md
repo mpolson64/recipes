@@ -1,22 +1,14 @@
 # Moz., Brie, Pesto Grilled Cheese
 
-## Info
-### Difficulty
-Super Easy
+Info       | _
+-----------|-
+Difficulty | Super Easy
+Time       | 10 minutes
+Size       | 1 serving
+Dietary    | Vegetarian
+Made?      | Yes
 
-### Time
-10 minutes
-
-### Size
-1 serving
-
-### Dietary
-Vegetarian
-
-### Made?
-Yes
-
-### Source
+## Source
 None
 
 ## Ingredients
