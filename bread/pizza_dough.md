@@ -9,10 +9,10 @@ Dietary    | Vegan
 Made?      | Yes
 
 ## Ingredients
-- [ ] 306 grams all-purpose flour
-- [ ] 8 grams sea salt
-- [ ] 2 grams active dry yeast
-- [ ] 4 grams extra-virgin olive oil
+- [ ] 306g all-purpose flour
+- [ ] 8g sea salt
+- [ ] 2g active dry yeast
+- [ ] 4g extra-virgin olive oil
 
 ## Steps
 1. In a large mixing bowl, combine flour and salt.
